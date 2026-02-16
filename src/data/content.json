@@ -12,7 +12,7 @@
     "kvk": "12345678",
     "btw_id": "NL001234567B01",
     "whatsapp": "31201234567",
-    "description": "Viehmann & van Ophem, Administrateurs is al meer dan 80 jaar een vertrouwd adres op het gebied van administratie, jaarrekeningen en financiële adviezen. Wij werken voor het midden- en kleinbedrijf, stichtingen, verenigingen en particulieren. Met jarenlange kennis en ervaring helpen wij u bij elke stap."
+    "description": "Viehmann & van Ophem, Administrateurs is al meer dan 80 jaar een vertrouwd adres op het gebied van administratie, jaarrekeningen en financiële adviezen. Wij werken voor het midden- en kleinbedrijf, stichtingen, verenigingen en particulieren. Met jarenlange kennis en ervaring maken wij het u echt makkelijker."
   },
   "hero": {
     "label": "Boekhouders & Adviseurs — Amsterdam",
@@ -53,35 +53,35 @@
   },
   "clients": [
     {
-      "name": "Stichting Sterke lach",
+      "name": "Particulieren",
       "style": "font-serif text-[17px] italic tracking-tight"
     },
     {
-      "name": "Stichting Meo",
+      "name": "ZZP'ers",
       "style": "text-[11px] font-bold uppercase tracking-[0.25em]"
     },
     {
-      "name": "MKB bedrijven",
+      "name": "Eenmanszaken",
       "style": "font-serif text-[19px] font-normal italic"
     },
     {
-      "name": "Particulieren",
+      "name": "V.o.f.",
       "style": "text-[13px] font-black uppercase tracking-[0.15em]"
     },
     {
-      "name": "ZZP'ers",
+      "name": "Stichtingen",
       "style": "font-serif text-[16px] italic"
     },
     {
-      "name": "Eenmanszaken",
+      "name": "Verenigingen",
       "style": "text-[12px] font-bold uppercase tracking-[0.2em]"
     },
     {
-      "name": "Stichtingen",
+      "name": "MKB bedrijven",
       "style": "text-[18px] font-light lowercase tracking-wider"
     },
     {
-      "name": "Verenigingen",
+      "name": "B.V.",
       "style": "text-[14px] font-black uppercase tracking-[0.3em]"
     }
   ],
@@ -93,75 +93,75 @@
     "items": [
       {
         "title": "Financiële administratie",
-        "description": "Professionele boekhouding en administratie voor uw bedrijf."
+        "description": "Complete boekhouding en administratie voor uw bedrijf. Wij zorgen dat alles correct en op tijd wordt verwerkt."
       },
       {
         "title": "Jaarrekening",
-        "description": "Opstelling van jaarrekeningen volgens wettelijke vereisten."
+        "description": "Professionele jaarrekeningen opgesteld volgens alle wettelijke vereisten. Transparantie en nauwkeurigheid gegarandeerd."
       },
       {
-        "title": "Belasting",
-        "description": "Belastingaangifte en fiscaal advies voor optimale belastingplanning."
+        "title": "Belastingaangifte",
+        "description": "Deskundige begeleiding bij alle belastingzaken. Wij zorgen dat u niet teveel betaalt."
       },
       {
         "title": "Salarisadministratie",
-        "description": "Volledige verzorging van loon- en salarisadministratie."
+        "description": "Volledige verzorging van loon- en salarisadministratie. Correct en op tijd afgehandeld."
       },
       {
         "title": "Advies",
-        "description": "Financieel en administratief advies voor uw organisatie."
+        "description": "Financieel en fiscaal advies op maat. Wij helpen u betere beslissingen te nemen."
       },
       {
         "title": "Begeleiding",
-        "description": "Persoonlijke begeleiding bij alle administratieve aangelegenheden."
+        "description": "Persoonlijke begeleiding bij alle administratieve en financiële vraagstukken. Altijd behulpzaam."
       }
     ]
   },
   "industries": [
     {
       "name": "Particulieren",
-      "desc": "Administratie en belastingaangiften voor particulieren."
+      "desc": "Persoonlijke belastingaangiften en financiële administratie voor particulieren."
     },
     {
       "name": "ZZP'ers",
-      "desc": "Administratie en boekhouding voor zelfstandigen."
+      "desc": "Volledige administratieve ondersteuning voor zelfstandigen zonder personeel."
     },
     {
       "name": "Eenmanszaken",
-      "desc": "Volledige administratieve ondersteuning voor eenmanszaken."
+      "desc": "Boekhouding en belastingzaken voor eenmansbedrijven."
+    },
+    {
+      "name": "V.o.f.",
+      "desc": "Administratie en jaarrekeningen voor vennootschappen onder firma."
     },
     {
       "name": "Stichtingen",
-      "desc": "Administratie en jaarrekeningen voor stichtingen."
-    },
-    {
-      "name": "Verenigingen",
-      "desc": "Administratieve diensten voor verenigingen en organisaties."
+      "desc": "Gespecialiseerde administratie voor stichtingen en non-profitorganisaties."
     },
     {
       "name": "MKB",
-      "desc": "Administratie en advies voor midden- en kleinbedrijf."
+      "desc": "Volledige administratieve diensten voor midden- en kleinbedrijven."
     }
   ],
   "about": {
     "label": "Waarom Sterling",
-    "headline": "Meer dan 80 jaar vertrouwd adres",
-    "paragraph": "Viehmann & van Ophem, Administrateurs is al meer dan 80 jaar een vertrouwd adres op het gebied van administratie, jaarrekeningen en financiële adviezen. Wij werken voor het midden- en kleinbedrijf, stichtingen, verenigingen en particulieren. Met jarenlange kennis en ervaring helpen wij u bij elke stap.",
+    "headline": "Meer dan 80 jaar ervaring in administratie",
+    "paragraph": "Viehmann & van Ophem, Administrateurs is al meer dan 80 jaar een vertrouwd adres op het gebied van administratie, jaarrekeningen en financiële adviezen. Wij werken voor het midden- en kleinbedrijf, stichtingen, verenigingen en particulieren. Met jarenlange kennis en ervaring maken wij het u echt makkelijker.",
     "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/c37566ec-08f2-4ff1-a34b-3e5a600f4311/letz_Professional_photorealistic_interior_of_a_modern_b20260215180850.jpg",
     "image_alt": "Modern interieur van een boutique boekhoudkantoor in Amsterdam met glazen wanden en groene planten",
     "years_experience": "80",
     "pillars": [
       {
         "title": "Jarenlange ervaring",
-        "text": "Meer dan 80 jaar expertise in administratie en fiscale zaken."
+        "text": "Meer dan 80 jaar expertise in administratie en belastingzaken. Wij kennen alle ins en outs."
       },
       {
-        "title": "Persoonlijke begeleiding",
-        "text": "Het team is altijd behulpzaam en zorgt voor persoonlijke aandacht."
+        "title": "Persoonlijke service",
+        "text": "Het team is altijd behulpzaam en zorgt ervoor dat alles geregeld is. U bent niet zomaar een nummer."
       },
       {
-        "title": "Volledige service",
-        "text": "Van boekhouding tot belastingaangifte, alles uit één hand."
+        "title": "Scherpe tarieven",
+        "text": "Belasting betalen moet, maar liever niet teveel. Wij helpen u kosten te besparen."
       }
     ]
   },
@@ -172,31 +172,31 @@
       "label": "Jaar ervaring"
     },
     {
-      "value": 45,
-      "suffix": "M",
+      "value": 500,
+      "suffix": "+",
       "label": "Blije klanten",
       "prefix": "€"
     },
     {
-      "value": 98,
+      "value": 5,
       "suffix": "%",
       "label": "Medewerkers"
     },
     {
-      "value": 15,
+      "value": 95,
       "suffix": "%",
       "label": "Klant tevredenheid"
     }
   ],
   "case_study": {
     "before_label": "Vóór Sterling",
-    "before_value": "€47.200",
+    "before_value": "Organisatie zonder tijd en kennis voor boekhouding.",
     "after_label": "Ná Sterling",
-    "after_value": "€28.800",
+    "after_value": "Boekhouding volledig geregeld, meer tijd voor kernactiviteiten.",
     "savings": "€18.400",
     "savings_label": "gemiddelde besparing per klant",
-    "client": "Kuipers Bouw B.V.",
-    "description": "stapte over van eenmanszaak naar BV-structuur. Resultaat: €18.400 minder belasting in het eerste jaar."
+    "client": "Stichting",
+    "description": "Het team van Viehmann & van Ophem, Administrateurs is altijd behulpzaam en zorgt ervoor dat alles geregeld is. De boekhouding op orde is essentieel voor de organisatie."
   },
   "team": {
     "label": "Ons Team",
@@ -208,7 +208,7 @@
         "name": "Henry Feenstra",
         "role": "Administrateur",
         "credentials": "RA · RB · 18 jaar ervaring",
-        "bio": "Henry Feenstra is een ervaren administrateur bij Viehmann & van Ophem.",
+        "bio": "Henry Feenstra is een ervaren administrateur met jarenlange kennis van boekhouding en belastingzaken. Hij staat klanten persoonlijk te woord.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/69a2bcfe-e05f-4dfa-9cbc-bbd402c11868/letz_Professional_corporate_headshot_portrait_of_a_conf20260215181641.jpg",
         "alt": "Marieke van der Berg, directeur en fiscalist van Sterling & Partners, in professioneel studioportret"
       },
@@ -216,7 +216,7 @@
         "name": "Reinier Berger",
         "role": "Administrateur",
         "credentials": "RB · NOB · 15 jaar ervaring",
-        "bio": "Reinier Berger is een ervaren administrateur bij Viehmann & van Ophem.",
+        "bio": "Reinier Berger brengt uitgebreide expertise in financiële administratie en jaarrekeningen. Hij begeleidt klanten door het gehele proces.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/ae520015-ab5c-4e91-939c-ce6c52a53eb8/letz_Professional_corporate_headshot_portrait_of_a_dist20260215181649.jpg",
         "alt": "Thomas de Vries, partner belastingadvies bij Sterling & Partners, in professioneel studioportret"
       },
@@ -224,7 +224,7 @@
         "name": "Els van Willigen-Boer",
         "role": "Administrateur",
         "credentials": "AA · CB · 10 jaar ervaring",
-        "bio": "Els van Willigen-Boer is een ervaren administrateur bij Viehmann & van Ophem.",
+        "bio": "Els van Willigen-Boer is gespecialiseerd in salarisadministratie en personeelszaken. Zij zorgt dat alles correct en op tijd wordt verwerkt.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/203f14ae-2f4d-4ffc-899b-ea504eb4a2bf/letz_Professional_corporate_headshot_portrait_of_a_youn20260215182213.jpg",
         "alt": "Sophie Jansen, senior boekhouder bij Sterling & Partners, in professioneel studioportret"
       },
@@ -232,7 +232,7 @@
         "name": "Inge Paulusma-Schillern",
         "role": "Administrateur",
         "credentials": "PDL · 8 jaar ervaring",
-        "bio": "Inge Paulusma-Schillern is een ervaren administrateur bij Viehmann & van Ophem.",
+        "bio": "Inge Paulusma-Schillern heeft jarenlange ervaring in belastingaangiften en financieel advies. Zij helpt klanten kosten te besparen.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/21ad4892-731a-428b-8872-480ea8a1cc79/letz_Professional_corporate_headshot_portrait_of_a_frie20260215181709.jpg",
         "alt": "Daan Bakker, salarisadministratie specialist bij Sterling & Partners, in professioneel studioportret"
       }
@@ -254,9 +254,9 @@
       "alt": "Creatieve professional met warme glimlach"
     },
     {
-      "quote": "Binnen onze organisatie hebben wij noch de tijd noch de kennis voor de boekhouding. Het team van Viehmann & van Ophem, Administrateurs is altijd behulpzaam en samen zorgen zij ervoor dat alles geregeld is.",
-      "author": "Isabel",
-      "title": "Stichting Sterke lach",
+      "quote": "Met het team van Viehmann & van Ophem, Administrateurs hebben wij een betrouwbare partner gevonden. Zij begrijpen onze behoeften en leveren consistent goede resultaten.",
+      "author": "Klant",
+      "title": "MKB bedrijf",
       "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
       "alt": "Professionele vrouw met elegante uitstraling"
     }
@@ -269,22 +269,22 @@
       {
         "step": "01",
         "title": "Voor wie",
-        "description": "Wij werken voor particulieren, ZZP'ers, eenmanszaken, v.o.f., stichtingen en B.V.'s."
+        "description": "Wij werken voor particulieren, ZZP'ers, eenmanszaken, v.o.f., stichtingen en B.V.'s. Iedereen kan bij ons terecht."
       },
       {
         "step": "02",
         "title": "Onze diensten",
-        "description": "Financiële administratie, jaarrekening, belasting, salarisadministratie en advies."
+        "description": "Financiële administratie, jaarrekening, belasting, salarisadministratie en advies. Alles wat u nodig heeft."
       },
       {
         "step": "03",
-        "title": "Wij helpen u",
-        "description": "Bij elke stap van uw administratieve proces staan wij aan uw zijde."
+        "title": "Persoonlijke begeleiding",
+        "description": "Wij helpen u bij elke stap. Het team is altijd behulpzaam en zorgt dat alles correct wordt afgehandeld."
       },
       {
         "step": "04",
-        "title": "Succes bereikt",
-        "description": "Samen zorgen wij ervoor dat uw administratie op orde is."
+        "title": "Samenwerking",
+        "description": "Langdurige relaties met onze klanten. Wij zijn uw vertrouwde partner op administratief en fiscaal gebied."
       }
     ]
   },
@@ -322,13 +322,13 @@
         "name": "Starter",
         "price": "€75",
         "period": "/maand",
-        "description": "Basis administratieve diensten voor starters en ZZP'ers.",
+        "description": "Voor ZZP'ers en eenmanszaken met basis administratieve behoeften.",
         "features": [
-          "Financiële administratie",
-          "Maandelijkse rapportage",
-          "Belastingadvies",
+          "Maandelijkse boekhouding",
+          "Belastingaangifte",
+          "Jaarrekening",
           "Telefonische ondersteuning",
-          "Jaarlijkse review"
+          "Digitale communicatie"
         ],
         "highlight": false
       },
@@ -336,29 +336,29 @@
         "name": "Basis",
         "price": "€150",
         "period": "/maand",
-        "description": "Volledige administratieve ondersteuning voor kleine bedrijven.",
+        "description": "Voor kleine bedrijven met uitgebreidere administratieve wensen.",
         "features": [
-          "Financiële administratie",
+          "Volledige boekhouding",
           "Salarisadministratie",
           "Jaarrekening",
           "Belastingaangifte",
-          "Maandelijkse rapportage",
-          "Advies"
+          "Maandelijk rapportage",
+          "Persoonlijk contactpersoon"
         ],
         "highlight": true
       },
       {
         "name": "Premium",
-        "price": "€250",
+        "price": "€300",
         "period": "",
-        "description": "Uitgebreide diensten voor groeiende bedrijven.",
+        "description": "Voor grotere bedrijven met complexe administratieve behoeften.",
         "features": [
           "Volledige administratie",
           "Salarisadministratie",
           "Jaarrekening",
           "Belastingaangifte",
           "Financieel advies",
-          "Maandelijkse rapportage",
+          "Maandelijk rapportage",
           "Persoonlijke begeleiding",
           "Prioriteitsondersteuning"
         ],
@@ -370,11 +370,11 @@
     "Exact Online",
     "Twinfield",
     "Yuki",
-    "Moneybird",
     "Boekhoudpakket",
+    "Moneybird",
     "Afas",
     "Visma",
-    "Sage"
+    "Winbooks"
   ],
   "blog": {
     "label": "Blog & Inzichten",
@@ -383,22 +383,22 @@
     "posts": [
       {
         "category": "Belasting",
-        "title": "Belastingplanning voor ZZP'ers",
-        "description": "Tips en trucs voor optimale belastingplanning als zelfstandige.",
+        "title": "Belastingaangifte 2024",
+        "description": "Alles wat u moet weten over de belastingaangifte voor 2024. Wij helpen u door het proces.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8ad828d1-ca1b-4e41-a6aa-cb351540ed24/letz_Flat_lay_overhead_photo_of_a_Dutch_ZZP_freelancer_20260215180918.jpg",
         "date": "12 feb 2026"
       },
       {
         "category": "Administratie",
-        "title": "Boekhouding op orde houden",
-        "description": "Hoe houdt u uw boekhouding efficiënt bij.",
+        "title": "Boekhouding op orde",
+        "description": "Waarom is goede boekhouding essentieel voor uw bedrijf? Lees meer over de voordelen.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8e47fca2-5437-4f5a-824d-aa66f67e8232/letz_Professional_photorealistic_image_of_a_modern_glas20260215180916.jpg",
         "date": "5 feb 2026"
       },
       {
         "category": "Advies",
         "title": "Financieel advies voor starters",
-        "description": "Wat moet u weten als u een bedrijf start.",
+        "description": "Praktische tips voor startende ondernemers. Hoe zet u uw administratie goed op?",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/0839f5fa-29a4-46f1-b7d1-0d3bdd644b48/letz_Closeup_photorealistic_image_of_hands_typing_on_la20260215180935.jpg",
         "date": "28 jan 2026"
       }
@@ -407,27 +407,27 @@
   "faqs": [
     {
       "question": "Wat zijn de kosten voor uw diensten?",
-      "answer": "Onze tarieven zijn afhankelijk van de omvang van uw administratie. Wij bieden verschillende pakketten aan, van Starter tot Premium. Neem contact op voor een persoonlijke offerte."
+      "answer": "De kosten hangen af van uw bedrijfstype en administratieve behoeften. Wij bieden verschillende pakketten aan, van Starter tot Premium. Neem contact op voor een persoonlijke offerte."
     },
     {
       "question": "Hoe werkt de samenwerking?",
-      "answer": "Wij beginnen met een kennismaking om uw situatie te begrijpen. Daarna stellen wij een offerte op en gaan wij aan de slag met uw administratie. U ontvangt maandelijks rapportages."
+      "answer": "Wij beginnen met een kennismaking waarin we uw behoeften bespreken. Daarna stellen wij een offerte op. Bij akkoord zorgen wij voor een soepele overdracht van uw administratie."
     },
     {
       "question": "Welke software gebruiken jullie?",
-      "answer": "Wij werken met moderne administratieve software. De exacte tools bepalen wij in overleg met u, afhankelijk van uw behoeften."
+      "answer": "Wij werken met moderne boekhoudingssoftware. De exacte software bepalen wij samen met u op basis van uw behoeften en voorkeuren."
     },
     {
-      "question": "Kan ik mijn administratie overdragen?",
-      "answer": "Ja, wij helpen u graag met de overdracht van uw administratie. Wij zorgen voor een soepele overgang en zullen alles goed met u doornemen."
+      "question": "Kan ik altijd contact opnemen?",
+      "answer": "Ja, het team van Viehmann & van Ophem, Administrateurs is altijd behulpzaam. U kunt ons bereiken via telefoon, email of persoonlijk bezoek."
     },
     {
-      "question": "Bieden jullie ook advies?",
-      "answer": "Ja, advies is een belangrijk onderdeel van onze diensten. Wij helpen u met financieel en fiscaal advies om uw bedrijf optimaal te laten groeien."
+      "question": "Voor wie zijn jullie diensten geschikt?",
+      "answer": "Wij werken voor particulieren, ZZP'ers, eenmanszaken, v.o.f., stichtingen en B.V.'s. Iedereen kan bij ons terecht voor administratieve en fiscale ondersteuning."
     },
     {
-      "question": "Hoe kan ik contact met jullie opnemen?",
-      "answer": "U kunt ons bereiken via telefoon (010-477 0433) of e-mail (admin@vievo.nl). Wij helpen u graag verder met al uw vragen."
+      "question": "Hoe lang duurt de overdracht?",
+      "answer": "De overdracht van uw administratie verloopt soepel en snel. Wij zorgen dat u geen administratieve zaken mist en alles correct wordt overgedragen."
     }
   ],
   "cta": {
