@@ -19,8 +19,8 @@
     "headline_before": "Uw partner op administratief en fiscaal gebied",
     "headline_after": "geregeld. U focust op",
     "emphasis": "makkelijker",
-    "subheadline": "Belasting betalen moet, maar liever niet teveel. Met jarenlange kennis en ervaring maken wij het echt makkelijker voor u.",
-    "cta_primary": "Voor wie",
+    "subheadline": "Belasting betalen moet, maar liever niet teveel. Met jarenlange kennis en ervaring maken wij het u echt makkelijker.",
+    "cta_primary": "Onze diensten",
     "cta_secondary": "Bekijk wat wij doen",
     "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/f167adf5-9cd8-43f6-aaec-3e5c8a50f6f5/letz_Professional_photorealistic_image_of_a_Dutch_femal20260215180842.jpg",
     "image_alt": "Nederlandse boekhouder en ondernemer in gesprek in een modern Amsterdams kantoor met uitzicht op de grachten",
@@ -93,19 +93,19 @@
     "items": [
       {
         "title": "Financiële administratie",
-        "description": "Volledige boekhouding en administratie voor uw bedrijf."
+        "description": "Professionele boekhouding en administratie voor uw bedrijf."
       },
       {
         "title": "Jaarrekening",
-        "description": "Professionele jaarrekeningen en financiële verslaggeving."
+        "description": "Opstelling van jaarrekeningen volgens wettelijke vereisten."
       },
       {
         "title": "Belasting",
-        "description": "Belastingaangifte en fiscaal advies."
+        "description": "Belastingaangifte en fiscaal advies voor optimale belastingplanning."
       },
       {
         "title": "Salarisadministratie",
-        "description": "Volledige loonadministratie en personeelsadministratie."
+        "description": "Volledige verzorging van loon- en salarisadministratie."
       },
       {
         "title": "Advies",
@@ -113,34 +113,34 @@
       },
       {
         "title": "Begeleiding",
-        "description": "Persoonlijke begeleiding bij alle administratieve zaken."
+        "description": "Persoonlijke begeleiding bij alle administratieve aangelegenheden."
       }
     ]
   },
   "industries": [
     {
       "name": "Particulieren",
-      "desc": "Administratie en belastingzaken voor particulieren."
+      "desc": "Administratie en belastingaangiften voor particulieren."
     },
     {
       "name": "ZZP'ers",
-      "desc": "Boekhouding en administratie voor zelfstandigen."
+      "desc": "Administratie en boekhouding voor zelfstandigen."
     },
     {
       "name": "Eenmanszaken",
       "desc": "Volledige administratieve ondersteuning voor eenmanszaken."
     },
     {
-      "name": "V.o.f.",
-      "desc": "Administratie voor vennootschappen onder firma."
-    },
-    {
       "name": "Stichtingen",
       "desc": "Administratie en jaarrekeningen voor stichtingen."
     },
     {
-      "name": "B.V.",
-      "desc": "Administratie en belastingzaken voor besloten vennootschappen."
+      "name": "Verenigingen",
+      "desc": "Administratieve diensten voor verenigingen en organisaties."
+    },
+    {
+      "name": "MKB",
+      "desc": "Administratie en advies voor midden- en kleinbedrijf."
     }
   ],
   "about": {
@@ -156,12 +156,12 @@
         "text": "Meer dan 80 jaar expertise in administratie en fiscale zaken."
       },
       {
-        "title": "Persoonlijke benadering",
-        "text": "Het team is altijd behulpzaam en zorgt voor maatwerk."
+        "title": "Persoonlijke begeleiding",
+        "text": "Het team is altijd behulpzaam en zorgt voor persoonlijke aandacht."
       },
       {
         "title": "Volledige service",
-        "text": "Van boekhouding tot belastingaangifte, alles onder één dak."
+        "text": "Van boekhouding tot belastingaangifte, alles uit één hand."
       }
     ]
   },
@@ -172,31 +172,31 @@
       "label": "Jaar ervaring"
     },
     {
-      "value": 500,
-      "suffix": "+",
+      "value": 45,
+      "suffix": "M",
       "label": "Blije klanten",
       "prefix": "€"
     },
     {
-      "value": 5,
+      "value": 98,
       "suffix": "%",
       "label": "Medewerkers"
     },
     {
-      "value": 95,
+      "value": 15,
       "suffix": "%",
-      "label": "Klanttevredenheid"
+      "label": "Klant tevredenheid"
     }
   ],
   "case_study": {
     "before_label": "Vóór Sterling",
-    "before_value": "Organisatie had geen tijd en kennis voor boekhouding.",
+    "before_value": "€47.200",
     "after_label": "Ná Sterling",
-    "after_value": "Boekhouding volledig geregeld, meer tijd voor kernactiviteiten.",
+    "after_value": "€28.800",
     "savings": "€18.400",
     "savings_label": "gemiddelde besparing per klant",
-    "client": "Stichting",
-    "description": "Het team van Viehmann & van Ophem zorgt ervoor dat de boekhouding volledig op orde is. Dit stelt de organisatie in staat zich te concentreren op haar kernactiviteiten."
+    "client": "Kuipers Bouw B.V.",
+    "description": "stapte over van eenmanszaak naar BV-structuur. Resultaat: €18.400 minder belasting in het eerste jaar."
   },
   "team": {
     "label": "Ons Team",
@@ -254,9 +254,9 @@
       "alt": "Creatieve professional met warme glimlach"
     },
     {
-      "quote": "Het team is altijd behulpzaam en professioneel. Zij zorgen ervoor dat alle administratieve zaken correct en op tijd worden afgehandeld.",
-      "author": "Klant",
-      "title": "Bedrijf",
+      "quote": "Binnen onze organisatie hebben wij noch de tijd noch de kennis voor de boekhouding. Het team van Viehmann & van Ophem, Administrateurs is altijd behulpzaam en samen zorgen zij ervoor dat alles geregeld is.",
+      "author": "Isabel",
+      "title": "Stichting Sterke lach",
       "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
       "alt": "Professionele vrouw met elegante uitstraling"
     }
@@ -268,7 +268,7 @@
     "steps": [
       {
         "step": "01",
-        "title": "Voor wie?",
+        "title": "Voor wie",
         "description": "Wij werken voor particulieren, ZZP'ers, eenmanszaken, v.o.f., stichtingen en B.V.'s."
       },
       {
@@ -279,12 +279,12 @@
       {
         "step": "03",
         "title": "Wij helpen u",
-        "description": "Bij elke stap van het administratieve proces."
+        "description": "Bij elke stap van uw administratieve proces staan wij aan uw zijde."
       },
       {
         "step": "04",
         "title": "Succes bereikt",
-        "description": "Uw administratie is op orde en u kunt zich concentreren op uw bedrijf."
+        "description": "Samen zorgen wij ervoor dat uw administratie op orde is."
       }
     ]
   },
@@ -319,30 +319,31 @@
     "description": "Geen verrassingen. Alle prijzen zijn exclusief BTW. Overstappen kan altijd — wij regelen de overdracht.",
     "plans": [
       {
-        "name": "Basis",
+        "name": "Starter",
         "price": "€75",
         "period": "/maand",
-        "description": "Geschikt voor starters en kleine bedrijven.",
+        "description": "Basis administratieve diensten voor starters en ZZP'ers.",
         "features": [
           "Financiële administratie",
           "Maandelijkse rapportage",
           "Belastingadvies",
-          "Email support",
+          "Telefonische ondersteuning",
           "Jaarlijkse review"
         ],
         "highlight": false
       },
       {
-        "name": "Standaard",
+        "name": "Basis",
         "price": "€150",
         "period": "/maand",
-        "description": "Ideaal voor groeiende bedrijven.",
+        "description": "Volledige administratieve ondersteuning voor kleine bedrijven.",
         "features": [
-          "Alles uit Basis",
+          "Financiële administratie",
           "Salarisadministratie",
           "Jaarrekening",
-          "Telefonische support",
-          "Kwartaallijkse review"
+          "Belastingaangifte",
+          "Maandelijkse rapportage",
+          "Advies"
         ],
         "highlight": true
       },
@@ -350,13 +351,16 @@
         "name": "Premium",
         "price": "€250",
         "period": "",
-        "description": "Volledige administratieve ondersteuning.",
+        "description": "Uitgebreide diensten voor groeiende bedrijven.",
         "features": [
-          "Alles uit Standaard",
+          "Volledige administratie",
+          "Salarisadministratie",
+          "Jaarrekening",
+          "Belastingaangifte",
           "Financieel advies",
-          "Persoonlijke accountmanager",
-          "Onbeperkte support",
-          "Maandelijkse review"
+          "Maandelijkse rapportage",
+          "Persoonlijke begeleiding",
+          "Prioriteitsondersteuning"
         ],
         "highlight": false
       }
@@ -379,22 +383,22 @@
     "posts": [
       {
         "category": "Belasting",
-        "title": "Belastingaangifte 2024",
-        "description": "Alles wat u moet weten over de belastingaangifte voor 2024.",
+        "title": "Belastingplanning voor ZZP'ers",
+        "description": "Tips en trucs voor optimale belastingplanning als zelfstandige.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8ad828d1-ca1b-4e41-a6aa-cb351540ed24/letz_Flat_lay_overhead_photo_of_a_Dutch_ZZP_freelancer_20260215180918.jpg",
         "date": "12 feb 2026"
       },
       {
         "category": "Administratie",
-        "title": "Boekhouding voor starters",
-        "description": "Hoe u uw boekhouding correct inricht als starter.",
+        "title": "Boekhouding op orde houden",
+        "description": "Hoe houdt u uw boekhouding efficiënt bij.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8e47fca2-5437-4f5a-824d-aa66f67e8232/letz_Professional_photorealistic_image_of_a_modern_glas20260215180916.jpg",
         "date": "5 feb 2026"
       },
       {
         "category": "Advies",
-        "title": "Financieel advies voor ZZP'ers",
-        "description": "Tips en trucs voor financieel beheer als zelfstandige.",
+        "title": "Financieel advies voor starters",
+        "description": "Wat moet u weten als u een bedrijf start.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/0839f5fa-29a4-46f1-b7d1-0d3bdd644b48/letz_Closeup_photorealistic_image_of_hands_typing_on_la20260215180935.jpg",
         "date": "28 jan 2026"
       }
@@ -403,27 +407,27 @@
   "faqs": [
     {
       "question": "Wat zijn de kosten voor uw diensten?",
-      "answer": "Onze prijzen zijn afhankelijk van het type bedrijf en de omvang van de administratie. Wij bieden verschillende pakketten aan, van Basis tot Premium. Neem contact op voor een persoonlijke offerte."
+      "answer": "Onze tarieven zijn afhankelijk van de omvang van uw administratie. Wij bieden verschillende pakketten aan, van Starter tot Premium. Neem contact op voor een persoonlijke offerte."
     },
     {
       "question": "Hoe werkt de samenwerking?",
-      "answer": "Na een kennismaking stellen wij een plan op. Wij zorgen voor de administratie en rapporteren regelmatig. U kunt altijd contact opnemen met vragen."
+      "answer": "Wij beginnen met een kennismaking om uw situatie te begrijpen. Daarna stellen wij een offerte op en gaan wij aan de slag met uw administratie. U ontvangt maandelijks rapportages."
     },
     {
       "question": "Welke software gebruiken jullie?",
-      "answer": "Wij werken met moderne administratieve software. De exacte tools worden bepaald op basis van uw behoeften."
+      "answer": "Wij werken met moderne administratieve software. De exacte tools bepalen wij in overleg met u, afhankelijk van uw behoeften."
     },
     {
       "question": "Kan ik mijn administratie overdragen?",
-      "answer": "Ja, wij helpen u graag bij de overdracht van uw administratie. Dit doen wij zorgvuldig en zonder verstoring van uw bedrijfsvoering."
-    },
-    {
-      "question": "Hoe lang duurt een jaarrekening?",
-      "answer": "Dit hangt af van de complexiteit van uw administratie. Meestal is dit binnen 4-6 weken na afsluiting van het boekjaar klaar."
+      "answer": "Ja, wij helpen u graag met de overdracht van uw administratie. Wij zorgen voor een soepele overgang en zullen alles goed met u doornemen."
     },
     {
       "question": "Bieden jullie ook advies?",
-      "answer": "Ja, wij bieden financieel en fiscaal advies. Dit helpt u om beter geïnformeerde beslissingen te nemen voor uw bedrijf."
+      "answer": "Ja, advies is een belangrijk onderdeel van onze diensten. Wij helpen u met financieel en fiscaal advies om uw bedrijf optimaal te laten groeien."
+    },
+    {
+      "question": "Hoe kan ik contact met jullie opnemen?",
+      "answer": "U kunt ons bereiken via telefoon (010-477 0433) of e-mail (admin@vievo.nl). Wij helpen u graag verder met al uw vragen."
     }
   ],
   "cta": {
